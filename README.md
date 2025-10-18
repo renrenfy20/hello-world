@@ -1,3 +1,3 @@
 # hello-world
 This repository is for practicing the GitHub Flow
-My name is Reymark Bernaldez, a 1st year BSIT student, aspirig to be a game dev.
+My name is Reymark Bernaldez, a college student, im here in github to learn new things and make friends
